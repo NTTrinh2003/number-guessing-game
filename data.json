@@ -1,0 +1,39 @@
+{
+  "mode": [
+    {
+      "name": "easy",
+      "maxAttempts": 10,
+      "timer": 120000
+    },
+    {
+      "name": "medium",
+      "maxAttempts": 5,
+      "timer": 60000
+    },
+    {
+      "name": "hard",
+      "maxAttempts": 3,
+      "timer": 30000
+    }
+  ],
+  "highscores": [
+    {
+      "name": "easy",
+      "score": 94154
+    },
+    {
+      "name": "medium",
+      "score": 0
+    },
+    {
+      "name": "hard",
+      "score": 0
+    }
+  ],
+  "hints": [
+    "Even",
+    "Odd",
+    "Divisible by 3",
+    "Divisible by 5"
+  ]
+}
